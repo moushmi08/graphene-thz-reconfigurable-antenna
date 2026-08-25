@@ -110,10 +110,3 @@ Return loss exceeds 10 dB across multiple resonant points, confirming acceptable
 
 - Saraereh, O. A., Al-Tarawneh, L., Ali, A., & Al Hadidi, A. M. "Design and Analysis of a Novel Antenna for THz Wireless Communication." *Intelligent Automation & Soft Computing*. DOI: [10.32604/iasc.2022.020216](https://doi.org/10.32604/iasc.2022.020216)
 - Kaul, R. "Microwave engineering." *IEEE Potentials*, vol. 8, no. 2, pp. 11–13, 1989.
-
-## Group
-
-- T K Sreevatsa Murthy (B210656EC)
-- Thondepu Moushmi (B210745EC)
-- Thota Goutham Goud (B210740EC)
-- Uday Jinna (B210674EC)
